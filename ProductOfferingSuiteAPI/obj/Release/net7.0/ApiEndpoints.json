@@ -1,0 +1,246 @@
+[
+  {
+    "ContainingType": "DesignComplexityAPI.Controllers.ArticleTypeController",
+    "Method": "FillItemGroup",
+    "RelativePath": "ArticleType/FillItemGroup",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesignComplexityAPI.Controllers.ArticleTypeController",
+    "Method": "GetArticleType",
+    "RelativePath": "ArticleType/GetArticleType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesignComplexityAPI.Controllers.DesignController",
+    "Method": "FillActivity",
+    "RelativePath": "Design/FillActivity",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesignComplexityAPI.Controllers.DesignController",
+    "Method": "FillLinkingType",
+    "RelativePath": "Design/FillLinkingType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesignComplexityAPI.Controllers.DesignController",
+    "Method": "GetDesignDetails",
+    "RelativePath": "Design/GetDesignDetails/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesignComplexityAPI.Controllers.DesignController",
+    "Method": "GetDesignFindingType",
+    "RelativePath": "Design/GetDesignFindingType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesignComplexityAPI.Controllers.DesignController",
+    "Method": "GetDesignGroup",
+    "RelativePath": "Design/GetDesignGroup",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesignComplexityAPI.Controllers.DesignController",
+    "Method": "GetDesignListDetails",
+    "RelativePath": "Design/GetDesignListDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "DesignDtls",
+        "Type": "DesignComplexityAPI.Domain.ItemAttributes.DesignListInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesignComplexityAPI.Controllers.DesignController",
+    "Method": "UpdateDesignDetails",
+    "RelativePath": "Design/UpdateDesignDetails",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "designModel",
+        "Type": "DesignComplexityAPI.Domain.ItemAttributes.DesignModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesignComplexityAPI.Controllers.JewelItemController",
+    "Method": "CalculateComplexity",
+    "RelativePath": "JewelItem/CalculateComplexity",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ItemCode",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesignComplexityAPI.Controllers.JewelItemController",
+    "Method": "FillPO",
+    "RelativePath": "JewelItem/FillPO",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesignComplexityAPI.Controllers.JewelItemController",
+    "Method": "GetJewelItemList",
+    "RelativePath": "JewelItem/GetJewelItemList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "JwlDtls",
+        "Type": "DesignComplexityAPI.Domain.ItemAttributes.JewelryListInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesignComplexityAPI.Controllers.JewelItemController",
+    "Method": "GetJewelryDetails",
+    "RelativePath": "JewelItem/GetJewelryDetails/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesignComplexityAPI.Controllers.MetalTypeController",
+    "Method": "GetMetaltype",
+    "RelativePath": "MetalType/GetMetaltype",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesignComplexityAPI.Controllers.ProductController",
+    "Method": "GetProductData",
+    "RelativePath": "Product/GetProductData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "prodDtl",
+        "Type": "DesignComplexityAPI.Domain.OfferSheet.ProductInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesignComplexityAPI.Controllers.SettingTypeController",
+    "Method": "GetSettingType",
+    "RelativePath": "SettingType/GetSettingType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesignComplexityAPI.Controllers.ShapeController",
+    "Method": "GetShape",
+    "RelativePath": "Shape/GetShape",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesignComplexityAPI.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "api/Account/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginModel",
+        "Type": "DesignComplexityAPI.Domain.Login.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesignComplexityAPI.Controllers.AccountController",
+    "Method": "loginPOS",
+    "RelativePath": "api/Account/loginPOS",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginModel",
+        "Type": "DesignComplexityAPI.Domain.Login.LoginPOSModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

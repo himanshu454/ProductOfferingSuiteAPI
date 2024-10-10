@@ -1,0 +1,44 @@
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Domain\bin\Debug\net7.0\DesignComplexityAPI.Domain.deps.json
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Domain\bin\Debug\net7.0\DesignComplexityAPI.Domain.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Domain\bin\Debug\net7.0\DesignComplexityAPI.Domain.pdb
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.AssemblyInfoInputs.cache
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.AssemblyInfo.cs
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.csproj.CoreCompileInputs.cache
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\refint\DesignComplexityAPI.Domain.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.pdb
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\ref\DesignComplexityAPI.Domain.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\bin\Debug\net7.0\DesignComplexityAPI.Domain.deps.json
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\bin\Debug\net7.0\DesignComplexityAPI.Domain.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\bin\Debug\net7.0\DesignComplexityAPI.Domain.pdb
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.AssemblyInfoInputs.cache
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.AssemblyInfo.cs
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.csproj.CoreCompileInputs.cache
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\refint\DesignComplexityAPI.Domain.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.pdb
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\ref\DesignComplexityAPI.Domain.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\bin\Debug\net7.0\DesignComplexityAPI.Domain.deps.json
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\bin\Debug\net7.0\DesignComplexityAPI.Domain.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\bin\Debug\net7.0\DesignComplexityAPI.Domain.pdb
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.AssemblyInfoInputs.cache
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.AssemblyInfo.cs
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\refint\DesignComplexityAPI.Domain.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.pdb
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\ref\DesignComplexityAPI.Domain.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\bin\Debug\net7.0\DesignComplexityAPI.Domain.deps.json
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\bin\Debug\net7.0\DesignComplexityAPI.Domain.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\bin\Debug\net7.0\DesignComplexityAPI.Domain.pdb
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.AssemblyInfoInputs.cache
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.AssemblyInfo.cs
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.csproj.CoreCompileInputs.cache
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\refint\DesignComplexityAPI.Domain.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\DesignComplexityAPI.Domain.pdb
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Domain\obj\Debug\net7.0\ref\DesignComplexityAPI.Domain.dll

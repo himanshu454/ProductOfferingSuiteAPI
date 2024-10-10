@@ -1,0 +1,34 @@
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\bin\Debug\net7.0\ProductOfferingSuiteAPI.Services.deps.json
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\bin\Debug\net7.0\ProductOfferingSuiteAPI.Services.dll
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\bin\Debug\net7.0\ProductOfferingSuiteAPI.Services.pdb
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\bin\Debug\net7.0\ProductOfferingSuiteAPI.Domain.dll
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\bin\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.dll
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\bin\Debug\net7.0\ProductOfferingSuiteAPI.Domain.pdb
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\bin\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.pdb
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\obj\Debug\net7.0\ProductOfferingSuiteAPI.Services.csproj.AssemblyReference.cache
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\obj\Debug\net7.0\ProductOfferingSuiteAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\obj\Debug\net7.0\ProductOfferingSuiteAPI.Services.AssemblyInfoInputs.cache
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\obj\Debug\net7.0\ProductOfferingSuiteAPI.Services.AssemblyInfo.cs
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\obj\Debug\net7.0\ProductOfferingSuiteAPI.Services.csproj.CoreCompileInputs.cache
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\obj\Debug\net7.0\ProductO.91CBA335.Up2Date
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\obj\Debug\net7.0\ProductOfferingSuiteAPI.Services.dll
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\obj\Debug\net7.0\refint\ProductOfferingSuiteAPI.Services.dll
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\obj\Debug\net7.0\ProductOfferingSuiteAPI.Services.pdb
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\obj\Debug\net7.0\ref\ProductOfferingSuiteAPI.Services.dll
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\bin\Debug\net7.0\ProductOfferingSuiteAPI.Services.deps.json
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\bin\Debug\net7.0\ProductOfferingSuiteAPI.Services.dll
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\bin\Debug\net7.0\ProductOfferingSuiteAPI.Services.pdb
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\bin\Debug\net7.0\ProductOfferingSuiteAPI.Domain.dll
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\bin\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.dll
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\bin\Debug\net7.0\ProductOfferingSuiteAPI.Domain.pdb
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\bin\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.pdb
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\obj\Debug\net7.0\ProductOfferingSuiteAPI.Services.csproj.AssemblyReference.cache
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\obj\Debug\net7.0\ProductOfferingSuiteAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\obj\Debug\net7.0\ProductOfferingSuiteAPI.Services.AssemblyInfoInputs.cache
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\obj\Debug\net7.0\ProductOfferingSuiteAPI.Services.AssemblyInfo.cs
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\obj\Debug\net7.0\ProductOfferingSuiteAPI.Services.csproj.CoreCompileInputs.cache
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\obj\Debug\net7.0\ProductO.91CBA335.Up2Date
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\obj\Debug\net7.0\ProductOfferingSuiteAPI.Services.dll
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\obj\Debug\net7.0\refint\ProductOfferingSuiteAPI.Services.dll
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\obj\Debug\net7.0\ProductOfferingSuiteAPI.Services.pdb
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Services\obj\Debug\net7.0\ref\ProductOfferingSuiteAPI.Services.dll

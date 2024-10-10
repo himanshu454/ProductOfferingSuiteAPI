@@ -1,0 +1,30 @@
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\bin\Release\net7.0\DesignComplexityAPI.Persistence.deps.json
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\bin\Release\net7.0\DesignComplexityAPI.Persistence.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\bin\Release\net7.0\DesignComplexityAPI.Persistence.pdb
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\bin\Release\net7.0\DesignComplexityAPI.Domain.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\bin\Release\net7.0\DesignComplexityAPI.Domain.pdb
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Release\net7.0\DesignComplexityAPI.Persistence.csproj.AssemblyReference.cache
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Release\net7.0\DesignComplexityAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Release\net7.0\DesignComplexityAPI.Persistence.AssemblyInfoInputs.cache
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Release\net7.0\DesignComplexityAPI.Persistence.AssemblyInfo.cs
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Release\net7.0\DesignComplexityAPI.Persistence.csproj.CoreCompileInputs.cache
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Release\net7.0\DesignComplexityAPI.Persistence.csproj.CopyComplete
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Release\net7.0\DesignComplexityAPI.Persistence.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Release\net7.0\refint\DesignComplexityAPI.Persistence.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Release\net7.0\DesignComplexityAPI.Persistence.pdb
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Release\net7.0\ref\DesignComplexityAPI.Persistence.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\bin\Release\net7.0\DesignComplexityAPI.Persistence.deps.json
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\bin\Release\net7.0\DesignComplexityAPI.Persistence.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\bin\Release\net7.0\DesignComplexityAPI.Persistence.pdb
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\bin\Release\net7.0\DesignComplexityAPI.Domain.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\bin\Release\net7.0\DesignComplexityAPI.Domain.pdb
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Release\net7.0\DesignComplexityAPI.Persistence.csproj.AssemblyReference.cache
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Release\net7.0\DesignComplexityAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Release\net7.0\DesignComplexityAPI.Persistence.AssemblyInfoInputs.cache
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Release\net7.0\DesignComplexityAPI.Persistence.AssemblyInfo.cs
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Release\net7.0\DesignComplexityAPI.Persistence.csproj.CoreCompileInputs.cache
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Release\net7.0\DesignCo.AF1157FA.Up2Date
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Release\net7.0\DesignComplexityAPI.Persistence.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Release\net7.0\refint\DesignComplexityAPI.Persistence.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Release\net7.0\DesignComplexityAPI.Persistence.pdb
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Release\net7.0\ref\DesignComplexityAPI.Persistence.dll

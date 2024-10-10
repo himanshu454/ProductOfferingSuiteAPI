@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <UserSecretsId>7e2541af-b59a-4ff8-a7f0-ef560effff32</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\ArticleTypeController.cs" />
+    <Compile Remove="Controllers\DesignController.cs" />
+    <Compile Remove="Controllers\JewelItemController.cs" />
+    <Compile Remove="Controllers\MetalTypeController.cs" />
+    <Compile Remove="Controllers\SettingTypeController.cs" />
+    <Compile Remove="Controllers\ShapeController.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Controllers\AccountController.cs~RF199bb50c.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="8.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProductOfferingSuiteAPI.APIUtility\ProductOfferingSuiteAPI.APIUtility.csproj" />
+    <ProjectReference Include="..\ProductOfferingSuiteAPI.Domain\ProductOfferingSuiteAPI.Domain.csproj" />
+    <ProjectReference Include="..\ProductOfferingSuiteAPI.Services\ProductOfferingSuiteAPI.Services.csproj" />
+  </ItemGroup>
+
+</Project>

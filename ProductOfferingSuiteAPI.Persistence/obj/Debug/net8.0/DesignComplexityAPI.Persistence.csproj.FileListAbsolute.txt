@@ -1,0 +1,15 @@
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Persistence\bin\Debug\net8.0\DesignComplexityAPI.Persistence.deps.json
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Persistence\bin\Debug\net8.0\DesignComplexityAPI.Persistence.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Persistence\bin\Debug\net8.0\DesignComplexityAPI.Persistence.pdb
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Persistence\bin\Debug\net8.0\DesignComplexityAPI.Domain.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Persistence\bin\Debug\net8.0\DesignComplexityAPI.Domain.pdb
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Debug\net8.0\DesignComplexityAPI.Persistence.csproj.AssemblyReference.cache
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Debug\net8.0\DesignComplexityAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Debug\net8.0\DesignComplexityAPI.Persistence.AssemblyInfoInputs.cache
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Debug\net8.0\DesignComplexityAPI.Persistence.AssemblyInfo.cs
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Debug\net8.0\DesignComplexityAPI.Persistence.csproj.CoreCompileInputs.cache
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Debug\net8.0\DesignComplexityAPI.Persistence.csproj.CopyComplete
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Debug\net8.0\DesignComplexityAPI.Persistence.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Debug\net8.0\refint\DesignComplexityAPI.Persistence.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Debug\net8.0\DesignComplexityAPI.Persistence.pdb
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI.Persistence\obj\Debug\net8.0\ref\DesignComplexityAPI.Persistence.dll

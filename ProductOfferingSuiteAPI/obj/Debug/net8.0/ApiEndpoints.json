@@ -1,0 +1,208 @@
+[
+  {
+    "ContainingType": "ProductOfferingSuiteAPI.Controllers.ProductController",
+    "Method": "AddProduct",
+    "RelativePath": "Product/AddProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "AddProd",
+        "Type": "ProductOfferingSuiteAPI.Domain.OfferSheet.AddProductModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductOfferingSuiteAPI.Controllers.ProductController",
+    "Method": "DeleteProduct",
+    "RelativePath": "Product/DeleteProduct",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "DeleteProd",
+        "Type": "ProductOfferingSuiteAPI.Domain.OfferSheet.DeleteProductModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductOfferingSuiteAPI.Controllers.ProductController",
+    "Method": "EditProduct",
+    "RelativePath": "Product/EditProduct",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EditProd",
+        "Type": "ProductOfferingSuiteAPI.Domain.OfferSheet.EditProductModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductOfferingSuiteAPI.Controllers.ProductController",
+    "Method": "GetProduct",
+    "RelativePath": "Product/GetProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "getProduct",
+        "Type": "ProductOfferingSuiteAPI.Domain.OfferSheet.GetProductInput",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductOfferingSuiteAPI.Controllers.ProductController",
+    "Method": "GetProductCategory",
+    "RelativePath": "Product/GetProductCategory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductOfferingSuiteAPI.Controllers.ProductController",
+    "Method": "GetProductColor",
+    "RelativePath": "Product/GetProductColor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductOfferingSuiteAPI.Controllers.ProductController",
+    "Method": "GetProductExcel",
+    "RelativePath": "Product/GetProductExcel",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductOfferingSuiteAPI.Controllers.ProductController",
+    "Method": "GetProductMaterial",
+    "RelativePath": "Product/GetProductMaterial",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductOfferingSuiteAPI.Controllers.ProductController",
+    "Method": "GetProductVendor",
+    "RelativePath": "Product/GetProductVendor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductOfferingSuiteAPI.Controllers.UserController",
+    "Method": "ChangePassword",
+    "RelativePath": "User/ChangePassword/ChangePassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "changePwd",
+        "Type": "ProductOfferingSuiteAPI.Domain.Login.LoginPOSChangePwdInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductOfferingSuiteAPI.Controllers.UserController",
+    "Method": "UpdateLoginProfile",
+    "RelativePath": "User/UpdateLoginProfile/UpdateProfile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateProfile",
+        "Type": "ProductOfferingSuiteAPI.Domain.Login.LoginPOSUpdateProfileInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductOfferingSuiteAPI.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "api/Account/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginModelInput",
+        "Type": "ProductOfferingSuiteAPI.Domain.Login.LoginPOSInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductOfferingSuiteAPI.Controllers.AccountController",
+    "Method": "ReLogin",
+    "RelativePath": "api/Account/ReLogin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductOfferingSuiteAPI.Controllers.AccountController",
+    "Method": "Registration",
+    "RelativePath": "api/Account/Registration",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginModelRegInput",
+        "Type": "ProductOfferingSuiteAPI.Domain.Login.LoginPOSRegInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

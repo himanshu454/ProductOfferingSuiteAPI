@@ -1,0 +1,30 @@
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\bin\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.deps.json
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\bin\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.dll
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\bin\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.pdb
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\bin\Debug\net7.0\ProductOfferingSuiteAPI.Domain.dll
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\bin\Debug\net7.0\ProductOfferingSuiteAPI.Domain.pdb
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\obj\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.csproj.AssemblyReference.cache
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\obj\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\obj\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.AssemblyInfoInputs.cache
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\obj\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.AssemblyInfo.cs
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\obj\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.csproj.CoreCompileInputs.cache
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\obj\Debug\net7.0\ProductO.8F4D4208.Up2Date
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\obj\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.dll
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\obj\Debug\net7.0\refint\ProductOfferingSuiteAPI.Persistence.dll
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\obj\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.pdb
+D:\Projects\POS\Design-Complexity-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\obj\Debug\net7.0\ref\ProductOfferingSuiteAPI.Persistence.dll
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\bin\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.deps.json
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\bin\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.dll
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\bin\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.pdb
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\bin\Debug\net7.0\ProductOfferingSuiteAPI.Domain.dll
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\bin\Debug\net7.0\ProductOfferingSuiteAPI.Domain.pdb
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\obj\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.csproj.AssemblyReference.cache
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\obj\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\obj\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.AssemblyInfoInputs.cache
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\obj\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.AssemblyInfo.cs
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\obj\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.csproj.CoreCompileInputs.cache
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\obj\Debug\net7.0\ProductO.8F4D4208.Up2Date
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\obj\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.dll
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\obj\Debug\net7.0\refint\ProductOfferingSuiteAPI.Persistence.dll
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\obj\Debug\net7.0\ProductOfferingSuiteAPI.Persistence.pdb
+D:\Projects\POS\Product Offering Suite-API\ProductOfferingSuiteAPI\ProductOfferingSuiteAPI.Persistence\obj\Debug\net7.0\ref\ProductOfferingSuiteAPI.Persistence.dll

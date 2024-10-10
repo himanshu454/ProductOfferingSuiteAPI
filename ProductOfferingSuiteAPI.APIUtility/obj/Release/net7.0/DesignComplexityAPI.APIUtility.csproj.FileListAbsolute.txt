@@ -1,0 +1,38 @@
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\bin\Release\net7.0\DesignComplexityAPI.APIUtility.deps.json
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\bin\Release\net7.0\DesignComplexityAPI.APIUtility.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\bin\Release\net7.0\DesignComplexityAPI.APIUtility.pdb
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\bin\Release\net7.0\DesignComplexityAPI.Domain.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\bin\Release\net7.0\DesignComplexityAPI.Persistence.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\bin\Release\net7.0\DesignComplexityAPI.Services.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\bin\Release\net7.0\DesignComplexityAPI.Persistence.pdb
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\bin\Release\net7.0\DesignComplexityAPI.Services.pdb
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\bin\Release\net7.0\DesignComplexityAPI.Domain.pdb
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\obj\Release\net7.0\DesignComplexityAPI.APIUtility.csproj.AssemblyReference.cache
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\obj\Release\net7.0\DesignComplexityAPI.APIUtility.GeneratedMSBuildEditorConfig.editorconfig
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\obj\Release\net7.0\DesignComplexityAPI.APIUtility.AssemblyInfoInputs.cache
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\obj\Release\net7.0\DesignComplexityAPI.APIUtility.AssemblyInfo.cs
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\obj\Release\net7.0\DesignComplexityAPI.APIUtility.csproj.CoreCompileInputs.cache
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\obj\Release\net7.0\DesignComplexityAPI.APIUtility.csproj.CopyComplete
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\obj\Release\net7.0\DesignComplexityAPI.APIUtility.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\obj\Release\net7.0\refint\DesignComplexityAPI.APIUtility.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\obj\Release\net7.0\DesignComplexityAPI.APIUtility.pdb
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\obj\Release\net7.0\ref\DesignComplexityAPI.APIUtility.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\bin\Release\net7.0\DesignComplexityAPI.APIUtility.deps.json
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\bin\Release\net7.0\DesignComplexityAPI.APIUtility.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\bin\Release\net7.0\DesignComplexityAPI.APIUtility.pdb
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\bin\Release\net7.0\DesignComplexityAPI.Domain.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\bin\Release\net7.0\DesignComplexityAPI.Persistence.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\bin\Release\net7.0\DesignComplexityAPI.Services.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\bin\Release\net7.0\DesignComplexityAPI.Persistence.pdb
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\bin\Release\net7.0\DesignComplexityAPI.Services.pdb
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\bin\Release\net7.0\DesignComplexityAPI.Domain.pdb
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\obj\Release\net7.0\DesignComplexityAPI.APIUtility.csproj.AssemblyReference.cache
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\obj\Release\net7.0\DesignComplexityAPI.APIUtility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\obj\Release\net7.0\DesignComplexityAPI.APIUtility.AssemblyInfoInputs.cache
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\obj\Release\net7.0\DesignComplexityAPI.APIUtility.AssemblyInfo.cs
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\obj\Release\net7.0\DesignComplexityAPI.APIUtility.csproj.CoreCompileInputs.cache
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\obj\Release\net7.0\DesignCo.69654F70.Up2Date
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\obj\Release\net7.0\DesignComplexityAPI.APIUtility.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\obj\Release\net7.0\refint\DesignComplexityAPI.APIUtility.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\obj\Release\net7.0\DesignComplexityAPI.APIUtility.pdb
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI.APIUtility\obj\Release\net7.0\ref\DesignComplexityAPI.APIUtility.dll

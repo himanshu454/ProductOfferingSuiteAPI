@@ -1,0 +1,235 @@
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.csproj.AssemblyReference.cache
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.AssemblyInfoInputs.cache
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.AssemblyInfo.cs
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.csproj.CoreCompileInputs.cache
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\appsettings.json
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.exe
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.deps.json
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.runtimeconfig.json
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.pdb
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Autofac.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Dapper.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.APIUtility.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Domain.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Persistence.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Services.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.APIUtility.pdb
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Domain.pdb
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Services.pdb
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Persistence.pdb
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets\msbuild.DesignComplexityAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.DesignComplexityAPI.props
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DesignComplexityAPI.props
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DesignComplexityAPI.props
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\scopedcss\bundle\DesignComplexityAPI.styles.css
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.csproj.CopyComplete
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\refint\DesignComplexityAPI.dll
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.pdb
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.genruntimeconfig.cache
+D:\AJ Code\Design Complexity\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\ref\DesignComplexityAPI.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\appsettings.json
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.exe
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.deps.json
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.runtimeconfig.json
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.pdb
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Autofac.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Dapper.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.APIUtility.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Domain.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Persistence.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Services.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.APIUtility.pdb
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Domain.pdb
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Services.pdb
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Persistence.pdb
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.csproj.AssemblyReference.cache
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.AssemblyInfoInputs.cache
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.AssemblyInfo.cs
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.csproj.CoreCompileInputs.cache
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets\msbuild.DesignComplexityAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.DesignComplexityAPI.props
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DesignComplexityAPI.props
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DesignComplexityAPI.props
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\scopedcss\bundle\DesignComplexityAPI.styles.css
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.csproj.CopyComplete
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\refint\DesignComplexityAPI.dll
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.pdb
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.genruntimeconfig.cache
+D:\AJ Code\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\ref\DesignComplexityAPI.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\appsettings.json
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.exe
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.deps.json
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.runtimeconfig.json
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.pdb
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Autofac.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Dapper.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.APIUtility.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Domain.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Persistence.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Services.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.APIUtility.pdb
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Domain.pdb
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Services.pdb
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Persistence.pdb
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.csproj.AssemblyReference.cache
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.AssemblyInfoInputs.cache
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.AssemblyInfo.cs
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.csproj.CoreCompileInputs.cache
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets\msbuild.DesignComplexityAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.DesignComplexityAPI.props
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DesignComplexityAPI.props
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DesignComplexityAPI.props
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\scopedcss\bundle\DesignComplexityAPI.styles.css
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignCo.AF21CD2E.Up2Date
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\refint\DesignComplexityAPI.dll
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.pdb
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.genruntimeconfig.cache
+D:\Projects\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\ref\DesignComplexityAPI.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\appsettings.json
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.exe
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.deps.json
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.runtimeconfig.json
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.pdb
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Autofac.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Dapper.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.APIUtility.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Domain.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Persistence.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Services.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.APIUtility.pdb
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Domain.pdb
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Services.pdb
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\bin\Debug\net7.0\DesignComplexityAPI.Persistence.pdb
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.csproj.AssemblyReference.cache
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.AssemblyInfoInputs.cache
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.AssemblyInfo.cs
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.csproj.CoreCompileInputs.cache
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets\msbuild.DesignComplexityAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.DesignComplexityAPI.props
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DesignComplexityAPI.props
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DesignComplexityAPI.props
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\scopedcss\bundle\DesignComplexityAPI.styles.css
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.csproj.CopyComplete
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\refint\DesignComplexityAPI.dll
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.pdb
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\DesignComplexityAPI.genruntimeconfig.cache
+D:\AJ Code\RD POS Code\Design Complexity\Design Complexity\Design-Complexity-API\DesignComplexityAPI\DesignComplexityAPI\obj\Debug\net7.0\ref\DesignComplexityAPI.dll
